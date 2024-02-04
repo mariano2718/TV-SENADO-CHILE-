@@ -1,1 +1,11 @@
-
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-PROGRAM-DATE-TIME:2024-02-03T02:36:14+00:00
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTINF:10.01,
+https://janus-tv-jhs.senado.cl/hls/tvsenado-sd/1706918400/1706925600/tvsenado-sd_1706927774.ts
+#EXTINF:10.01,
+https://janus-tv-jhs.senado.cl/hls/tvsenado-sd/1706918400/1706925600/tvsenado-sd_1706927784.ts
+#EXTINF:10.01,
+https://janus-tv-jhs.senado.cl/hls/tvsenado-sd/1706918400/1706925600/tvsenado-sd_1706927794.ts
